@@ -1,3 +1,15 @@
+Created a user-friendly Sorting Algorithm Visualizer using React and incorporated Bubble Sort, Selection Sort, Insertion Sort, Heap Sort, Merge Sort and Quick Sort.
+
+Live Project Link :- https://sorting-alogs-visualizer-react.netlify.app/
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
